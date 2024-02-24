@@ -38,7 +38,8 @@ Atualmente, estou direcionando meu foco para a área de Inteligência Artificial
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![AZURE MACHINE LEARNING](https://img.shields.io/badge/AZURE_MACHINE_LEARNING-white.svg?style=for-the-badge&logo=microsoft-azure)
+![AZURE MACHINE LEARNING](https://img.shields.io/badge/AZURE_MACHINE_LEARNING-%2300bfff.svg?style=for-the-badge&logo=microsoft-azure)
+
 
 
 
