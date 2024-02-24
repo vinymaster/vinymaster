@@ -12,6 +12,12 @@ Atualmente, estou direcionando meu foco para a área de Inteligência Artificial
 ## Me Encontre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marchus-vinicius-lima-santos-6909b91b6/)
 
+[![DIO](https://img.shields.io/badge/DIO-black.svg?style=for-the-badge&logo=github)](https://github.dev/vinymaster/vinymaster)
+
+
+
+
+
 
 
 ## Habilidades
@@ -32,6 +38,8 @@ Atualmente, estou direcionando meu foco para a área de Inteligência Artificial
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AZURE MACHINE LEARNING](https://img.shields.io/badge/AZURE_MACHINE_LEARNING-white.svg?style=for-the-badge&logo=microsoft-azure)
+
 
 
 ## GitHub Status
