@@ -12,7 +12,7 @@ Atualmente, estou direcionando meu foco para a área de Inteligência Artificial
 ## Me Encontre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marchus-vinicius-lima-santos-6909b91b6/)
 
-[![DIO](https://img.shields.io/badge/DIO-black.svg?style=for-the-badge&logo=github)](https://github.dev/vinymaster/vinymaster)
+[![DIO](https://img.shields.io/badge/DIO-black.svg?style=for-the-badge&logo=github)](https://www.dio.me/users/vinyboy69)
 
 
 
